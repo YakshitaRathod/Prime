@@ -12,6 +12,6 @@ number = 1011013
 
  # test data:  number = 1011013, number = 10110133, number = 101101331
 if is_prime(number):
-    print str(number) + " is a prime number"
+    print (number , " is a prime number")
 else:
-    print str(number) + " is not a prime number"
+    print (number , " is not a prime number")
